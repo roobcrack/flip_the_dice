@@ -10,4 +10,7 @@ public class Dice {
     public int throwDice(){
         return random.nextInt(6)+1;
     }
+    public boolean matchDice(){
+        return throwDice()==throwDice();
+    }
 }
