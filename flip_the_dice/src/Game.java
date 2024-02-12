@@ -1,11 +1,13 @@
 public class Game {
-    public void play(){
+    private Player[] player;
+    public Game(){
+
+    }
+    public void play(int numberPlayers, int rounds){
         Dice dice = new Dice();
 
-        if(dice.matchDice()){
-            System.out.println("SAME");
-        } else{
-            System.out.println("DIFFERENT");
-        }
+        do{
+
+        } while(rounds > 0);
     }
 }
