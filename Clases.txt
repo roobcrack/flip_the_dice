@@ -1,0 +1,10 @@
+JUEGO DE DADOS
+Main	
+	-Establecer numero de rondas
+	
+Juego
+	-Array de jugadores
+Jugador
+	-nombre
+	-puntuacion
+	-activo
