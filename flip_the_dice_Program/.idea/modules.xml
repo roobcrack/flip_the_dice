@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD:flip_the_dice_Program/.idea/modules.xml
       <module fileurl="file://$PROJECT_DIR$/flip_the_dice_Program.iml" filepath="$PROJECT_DIR$/flip_the_dice_Program.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+>>>>>>> 8826548ef7f012eb3fd240d36615e0ad2dc5a964:flip_the_dice/.idea/modules.xml
     </modules>
   </component>
 </project>
