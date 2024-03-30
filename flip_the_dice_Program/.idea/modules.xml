@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flip_the_dice.iml" filepath="$PROJECT_DIR$/flip_the_dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flip_the_dice_Program.iml" filepath="$PROJECT_DIR$/flip_the_dice_Program.iml" />
     </modules>
   </component>
 </project>
