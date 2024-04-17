@@ -26,5 +26,13 @@ public class Main {
             System.out.print(i+1+".Insert player: ");
             players[i] = new Player(sc.nextLine());
         }
+
+        //Set rounds number
+        int numberRounds = dice.rollDice();
+        System.out.println("Number of rounds: "+numberRounds);
+
+        do{
+
+        } while(numberRounds-- > 1);
     }
 }

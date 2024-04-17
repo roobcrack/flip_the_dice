@@ -9,4 +9,7 @@ public class Player {
     public void increaseScore(){
         score++;
     }
+    public void resetScore(){
+        this.score = 0;
+    }
 }
